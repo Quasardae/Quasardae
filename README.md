@@ -1,4 +1,4 @@
-I am a BSc Physicist from the University of Ioannina, currently pursuing my Master's degree at the Department of Physics, University of Ioannina, specializing in Theoretical Physics. 
+I am a BSc Physicist, currently pursuing my Master's degree at the Department of Physics, University of Ioannina, specializing in Theoretical Physics. 
 
 My work focuses on modern cosmology, exploring the evolution of the universe, cosmic acceleration, and large-scale structures through computational physics and coding (primarily using Python and Mathematica). 
 
