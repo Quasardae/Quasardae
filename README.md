@@ -6,7 +6,7 @@ My work focuses on modern cosmology, exploring the evolution of the universe, co
 **Projects** 
 
 * **[Dynamical Dark Energy: Theoretical Models & Constraints](Dynamical%20Dark%20Energy.pdf)**: My Bachelor Thesis investigating scalar field dynamics, Effective Field Theories of dark energy, reconstruction methods, and parameter constraints through multi-probe observational data (Pantheon+, DESI 2024 and Planck). 
-* **[Cosmological MCMC Analysis Code](MCMC.ipynb)**: The Python notebook implementing statistical sampling via `emcee` to test theoretical dark energy scenarios against observational datasets.
+* **[Cosmological MCMC Analysis Code](MCMC_Code_Thesis.ipynb)**: The Python notebook implementing statistical sampling via `emcee` to test theoretical dark energy scenarios against observational datasets.
 
 ---
 📫 **Contact:** kyritsiapostolia6@gmail.com
